@@ -27,7 +27,7 @@
 
             // "https://linknya.com/c/ee6898dc97719?track=" + id + "&subsource=" + id 
 
-            // Parameter di sesuikan dengan dashboard masing masihg pada misal lospollos  "?u=kx7kd0b&o=ch4pmev&t=" + id cuman lospollos belum ada offer cari network lain sekiranya ada offernya
+            // Parameter di sesuikan dengan dashboard masing masihg misal pada lospollos  "?u=kx7kd0b&o=ch4pmev&t=" + id cuman lospollos belum ada offer cari network lain sekiranya ada offernya
 
             // sextingpartners.com DOI
             if (["DK", "FL", "NO", "SE"].includes(countryCode)) {
